@@ -13,6 +13,16 @@ Esta é minha primeira página desenvolvida na disciplina Programação Web.
 - Git
 - GitHub
 
-## Evidência da atividade
+## Evidências da atividade
 
-![Captura de tela mostrando a página HTML e as DevTools](Captura%20de%20tela%202026-10-11%20112107.png)
+### Captura 1
+
+![Primeira evidência](site.png)
+
+### Captura 2
+
+![Segunda evidência](site2.png)
+
+### Captura 3
+
+![Terceira evidência](site3.png)

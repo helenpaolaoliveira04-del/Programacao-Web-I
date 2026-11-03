@@ -1,0 +1,121 @@
+
+/* CONFIGURAÇÃO GERAL */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f4f8fc;
+    color: #334155;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* CABEÇALHO */
+
+header {
+    background-color: #dce8f5;
+    color: #29496b;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    color: #42688f;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #42688f;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+/* MENU DE NAVEGAÇÃO */
+
+nav {
+    background-color: #29496b;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #b9d7f2;
+    text-decoration: underline;
+}
+
+/* CONTEÚDO PRINCIPAL */
+
+main {
+    width: 85%;
+    max-width: 900px;
+    margin: 30px auto;
+}
+
+/* SEÇÕES DA PÁGINA */
+
+.secao {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+    border: 1px solid #dce8f5;
+    border-radius: 10px;
+}
+
+/* PARÁGRAFOS */
+
+p {
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+/* IMAGEM PESSOAL */
+
+img {
+    width: 200px;
+    height: auto;
+    border: 3px solid #42688f;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+/* LISTA DE INTERESSES */
+
+ul {
+    padding-left: 30px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* RODAPÉ */
+
+footer {
+    background-color: #dce8f5;
+    color: #29496b;
+    text-align: center;
+    padding: 25px;
+}
+
+footer a {
+    color: #42688f;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    color: #17365d;
+    text-decoration: underline;
+}
